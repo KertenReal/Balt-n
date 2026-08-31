@@ -1,2 +1,2 @@
-# Balt-n
+# Baltın
 Paralara bir bakış atılır.
